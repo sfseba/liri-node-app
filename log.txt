@@ -1,0 +1,468 @@
+Artist: Adele
+Song: Hello
+Album the song is from: Hello
+Preview Url: https://p.scdn.co/mp3-preview/0b90429fd554bad6785faa2b8931d613db4a0ee4?cid=a8cd3ae7f185476ab2135c77821d8a79
+------------------------------ 0 ------------------------------
+Artist: Jhene Aiko
+Song: Hello Ego
+Album the song is from: Hello Ego
+Preview Url: null
+------------------------------ 1 ------------------------------
+Artist: Adele
+Song: Hello
+Album the song is from: 25
+Preview Url: https://p.scdn.co/mp3-preview/0b90429fd554bad6785faa2b8931d613db4a0ee4?cid=a8cd3ae7f185476ab2135c77821d8a79
+------------------------------ 2 ------------------------------
+Artist: Dillon Francis
+Song: Hello There
+Album the song is from: Hello There
+Preview Url: https://p.scdn.co/mp3-preview/698defcdd9bff67bc6d804dee3803270a4d53962?cid=a8cd3ae7f185476ab2135c77821d8a79
+------------------------------ 3 ------------------------------
+Artist: Karol G
+Song: Hello
+Album the song is from: Hello
+Preview Url: null
+------------------------------ 4 ------------------------------
+title: Saw
+year: 2004
+Imdb Rating: USA
+Country: USA
+Language: English
+Plot: Two strangers awaken in a room with no recollection of how they got there or why, and soon discover they are pawns in a deadly game perpetrated by a notorious serial killer.
+Actors: Leigh Whannell, Cary Elwes, Danny Glover, Ken Leung
+Rotten Tomatoes Rating: N/A
+Rotten Tomatoes URL: http://www.rottentomatoes.com/m/saw/
+-------------------------------
+Artist: Sister Nancy
+Song: Bam Bam
+Album the song is from: One Two
+Preview Url: https://p.scdn.co/mp3-preview/30539a77bac05d1b0845a44055509dace817737b?cid=a8cd3ae7f185476ab2135c77821d8a79
+------------------------------ 0 ------------------------------
+Artist: Bassnectar
+Song: Speakerbox (feat. Ohana Bam & Lafa Taylor) - F8 Remix
+Album the song is from: The Fate of the Furious: The Album
+Preview Url: https://p.scdn.co/mp3-preview/daf89cc44296db72e0094494db1d5b2c9bbc7cae?cid=a8cd3ae7f185476ab2135c77821d8a79
+------------------------------ 1 ------------------------------
+Artist: Silver
+Song: Wham Bam Shang-A-Lang
+Album the song is from: Silver
+Preview Url: https://p.scdn.co/mp3-preview/005783eea0760408cf46a7ab710e05e15b22c04e?cid=a8cd3ae7f185476ab2135c77821d8a79
+------------------------------ 2 ------------------------------
+Artist: Snow Tha Product
+Song: Get Down Low (feat. Ohana Bam)
+Album the song is from: Half Way There...Pt. 1
+Preview Url: https://p.scdn.co/mp3-preview/be54106459a2ee37ac273d9a8113403574446f5c?cid=a8cd3ae7f185476ab2135c77821d8a79
+------------------------------ 3 ------------------------------
+Artist: Karl X Johan
+Song: Get It All - Bam Spacey remix
+Album the song is from: Do You Remember / Get It All - Remixes
+Preview Url: https://p.scdn.co/mp3-preview/c795bbb8980fe2181d0f969cd1134eae41980bcc?cid=a8cd3ae7f185476ab2135c77821d8a79
+------------------------------ 4 ------------------------------
+Artist: Taylor Swift
+Song: Style
+Album the song is from: 1989 (Deluxe Edition)
+Preview Url: null
+------------------------------ 0 ------------------------------
+Artist: Drake
+Song: Pop Style
+Album the song is from: Pop Style
+Preview Url: null
+------------------------------ 1 ------------------------------
+Artist: Drake
+Song: Pop Style
+Album the song is from: Views
+Preview Url: null
+------------------------------ 2 ------------------------------
+Artist: Taylor Swift
+Song: Style
+Album the song is from: 1989
+Preview Url: null
+------------------------------ 3 ------------------------------
+Artist: PSY
+Song: Gangnam Style (강남스타일)
+Album the song is from: Gangnam Style (강남스타일)
+Preview Url: null
+------------------------------ 4 ------------------------------
+@droxey: RT @2600: Hacking has never NOT been about social justice. More ppl just happen to be talking about it now. We're sorry if that upsets you.…
+Tue Oct 17 04:13:41 +0000 2017
+0
+@droxey: defeating the korean claw machine left me with more questions than answers; what form had… https://t.co/BxMPNzaQFp
+Wed Oct 11 22:24:54 +0000 2017
+1
+@droxey: RT @iamdevloper: steps to writing js in 2017:
+
+1. install node
+2. configure babel
+...
+9. slowly beat the eggs into the flour and butter
+...…
+Wed Oct 11 10:59:34 +0000 2017
+2
+@droxey: apocalypticode #california #wildfires #vallejo #sfferry #commute @ Vallejo Marina https://t.co/yHX9qtIWB0
+Tue Oct 10 23:16:44 +0000 2017
+3
+@droxey: RT @Gaohmee: It may be hard but you need to hear this: If you promote crunch and overworking, you do not deserve to be a mentor or role mod…
+Thu Oct 05 16:52:59 +0000 2017
+4
+@droxey: dill pickle soup 😋 #tasty #homemade @ Vallejo, California https://t.co/ouYfssOJ8V
+Thu Oct 05 01:19:02 +0000 2017
+5
+@droxey: 🔥💀 https://t.co/NNYivvqQJ9
+Sat Sep 30 03:18:52 +0000 2017
+6
+@droxey: Stay connected and show off your style! I've got a promo code for $20 off of a Gemio Band. https://t.co/d5W6XEeM37 via @gemio
+Mon Sep 25 23:14:43 +0000 2017
+7
+@droxey: à l'envers @ Vallejo, California https://t.co/f75eeRVGHr
+Sat Sep 23 05:27:06 +0000 2017
+8
+@droxey: AMEN https://t.co/mH7SpeFzsw
+Sun Sep 17 00:32:22 +0000 2017
+9
+@droxey: RT @brianwolven: Now I lay me down to rest,
+I did my very robot-best.
+When Saturn photos you do see,
+Please smile, no tears, &amp; think of me.…
+Fri Sep 15 07:09:14 +0000 2017
+10
+@droxey: 1st paying gig: 2004.  HTML+CSS templates for a defunct LiveJournal competitor. Directly contacted by site owners.… https://t.co/N5SgLS1ZP0
+Mon Sep 11 18:29:50 +0000 2017
+11
+@droxey: RT @JoePFerguson: Commented out code is dead code.
+
+Dead code should be deleted.
+
+Let Version Control do it's job.
+Thu Sep 07 16:20:01 +0000 2017
+12
+@droxey: @ssokerov My friend gave me the same advice! Sooo refreshing when it’s 107 in the bay…
+Sat Sep 02 23:23:16 +0000 2017
+13
+@droxey: beating the heat bulgarian style 🇧🇬 https://t.co/Xwo8HFmORi
+Sat Sep 02 23:10:03 +0000 2017
+14
+@droxey: look at all dem sea puppies #sf @ PIER 39 https://t.co/OczTZ8uYKz
+Sat Aug 26 23:24:04 +0000 2017
+15
+@droxey: post class park naps #sf @ Pier 14 https://t.co/2rl2Di2eje
+Sat Aug 26 22:19:49 +0000 2017
+16
+@droxey: thanks nasa! 🚀#roguenasa roguenasaofficial https://t.co/XdaWcj4I6c
+Fri Aug 25 23:23:47 +0000 2017
+17
+@droxey: RT @cassidoo: I'm:
+⚪️ a man
+⚪️ a woman
+🔘 an aspiring vim user
+
+and I'm looking for:
+⚪️ a man
+⚪️ a woman
+🔘 how to exit
+Tue Aug 22 16:50:00 +0000 2017
+18
+@droxey: hello yes what u doin https://t.co/tYtGZsBLMM
+Mon Aug 21 18:25:54 +0000 2017
+19
+@droxey: RT @2600: Hacking has never NOT been about social justice. More ppl just happen to be talking about it now. We're sorry if that upsets you.…
+Tue Oct 17 04:13:41 +0000 2017
+0
+@droxey: defeating the korean claw machine left me with more questions than answers; what form had… https://t.co/BxMPNzaQFp
+Wed Oct 11 22:24:54 +0000 2017
+1
+@droxey: RT @iamdevloper: steps to writing js in 2017:
+
+1. install node
+2. configure babel
+...
+9. slowly beat the eggs into the flour and butter
+...…
+Wed Oct 11 10:59:34 +0000 2017
+2
+@droxey: apocalypticode #california #wildfires #vallejo #sfferry #commute @ Vallejo Marina https://t.co/yHX9qtIWB0
+Tue Oct 10 23:16:44 +0000 2017
+3
+@droxey: RT @Gaohmee: It may be hard but you need to hear this: If you promote crunch and overworking, you do not deserve to be a mentor or role mod…
+Thu Oct 05 16:52:59 +0000 2017
+4
+@droxey: dill pickle soup 😋 #tasty #homemade @ Vallejo, California https://t.co/ouYfssOJ8V
+Thu Oct 05 01:19:02 +0000 2017
+5
+@droxey: 🔥💀 https://t.co/NNYivvqQJ9
+Sat Sep 30 03:18:52 +0000 2017
+6
+@droxey: Stay connected and show off your style! I've got a promo code for $20 off of a Gemio Band. https://t.co/d5W6XEeM37 via @gemio
+Mon Sep 25 23:14:43 +0000 2017
+7
+@droxey: à l'envers @ Vallejo, California https://t.co/f75eeRVGHr
+Sat Sep 23 05:27:06 +0000 2017
+8
+@droxey: AMEN https://t.co/mH7SpeFzsw
+Sun Sep 17 00:32:22 +0000 2017
+9
+@droxey: RT @brianwolven: Now I lay me down to rest,
+I did my very robot-best.
+When Saturn photos you do see,
+Please smile, no tears, &amp; think of me.…
+Fri Sep 15 07:09:14 +0000 2017
+10
+@droxey: 1st paying gig: 2004.  HTML+CSS templates for a defunct LiveJournal competitor. Directly contacted by site owners.… https://t.co/N5SgLS1ZP0
+Mon Sep 11 18:29:50 +0000 2017
+11
+@droxey: RT @JoePFerguson: Commented out code is dead code.
+
+Dead code should be deleted.
+
+Let Version Control do it's job.
+Thu Sep 07 16:20:01 +0000 2017
+12
+@droxey: @ssokerov My friend gave me the same advice! Sooo refreshing when it’s 107 in the bay…
+Sat Sep 02 23:23:16 +0000 2017
+13
+@droxey: beating the heat bulgarian style 🇧🇬 https://t.co/Xwo8HFmORi
+Sat Sep 02 23:10:03 +0000 2017
+14
+@droxey: look at all dem sea puppies #sf @ PIER 39 https://t.co/OczTZ8uYKz
+Sat Aug 26 23:24:04 +0000 2017
+15
+@droxey: post class park naps #sf @ Pier 14 https://t.co/2rl2Di2eje
+Sat Aug 26 22:19:49 +0000 2017
+16
+@droxey: thanks nasa! 🚀#roguenasa roguenasaofficial https://t.co/XdaWcj4I6c
+Fri Aug 25 23:23:47 +0000 2017
+17
+@droxey: RT @cassidoo: I'm:
+⚪️ a man
+⚪️ a woman
+🔘 an aspiring vim user
+
+and I'm looking for:
+⚪️ a man
+⚪️ a woman
+🔘 how to exit
+Tue Aug 22 16:50:00 +0000 2017
+18
+@droxey: hello yes what u doin https://t.co/tYtGZsBLMM
+Mon Aug 21 18:25:54 +0000 2017
+19
+Artist: Adele
+Song: Hello
+Album the song is from: Hello
+Preview Url: https://p.scdn.co/mp3-preview/0b90429fd554bad6785faa2b8931d613db4a0ee4?cid=a8cd3ae7f185476ab2135c77821d8a79
+------------------------------ 0 ------------------------------
+Artist: Jhene Aiko
+Song: Hello Ego
+Album the song is from: Hello Ego
+Preview Url: null
+------------------------------ 1 ------------------------------
+Artist: Adele
+Song: Hello
+Album the song is from: 25
+Preview Url: https://p.scdn.co/mp3-preview/0b90429fd554bad6785faa2b8931d613db4a0ee4?cid=a8cd3ae7f185476ab2135c77821d8a79
+------------------------------ 2 ------------------------------
+Artist: Dillon Francis
+Song: Hello There
+Album the song is from: Hello There
+Preview Url: https://p.scdn.co/mp3-preview/698defcdd9bff67bc6d804dee3803270a4d53962?cid=a8cd3ae7f185476ab2135c77821d8a79
+------------------------------ 3 ------------------------------
+Artist: Karol G
+Song: Hello
+Album the song is from: Hello
+Preview Url: null
+------------------------------ 4 ------------------------------
+Artist: Adele
+Song: Hello
+Album the song is from: Hello
+Preview Url: https://p.scdn.co/mp3-preview/0b90429fd554bad6785faa2b8931d613db4a0ee4?cid=a8cd3ae7f185476ab2135c77821d8a79
+------------------------------ 0 ------------------------------
+Artist: Jhene Aiko
+Song: Hello Ego
+Album the song is from: Hello Ego
+Preview Url: null
+------------------------------ 1 ------------------------------
+Artist: Adele
+Song: Hello
+Album the song is from: 25
+Preview Url: https://p.scdn.co/mp3-preview/0b90429fd554bad6785faa2b8931d613db4a0ee4?cid=a8cd3ae7f185476ab2135c77821d8a79
+------------------------------ 2 ------------------------------
+Artist: Dillon Francis
+Song: Hello There
+Album the song is from: Hello There
+Preview Url: https://p.scdn.co/mp3-preview/698defcdd9bff67bc6d804dee3803270a4d53962?cid=a8cd3ae7f185476ab2135c77821d8a79
+------------------------------ 3 ------------------------------
+Artist: Karol G
+Song: Hello
+Album the song is from: Hello
+Preview Url: null
+------------------------------ 4 ------------------------------
+Artist: Adele
+Song: Hello
+Album the song is from: Hello
+Preview Url: https://p.scdn.co/mp3-preview/0b90429fd554bad6785faa2b8931d613db4a0ee4?cid=a8cd3ae7f185476ab2135c77821d8a79
+------------------------------ 0 ------------------------------
+Artist: Jhene Aiko
+Song: Hello Ego
+Album the song is from: Hello Ego
+Preview Url: null
+------------------------------ 1 ------------------------------
+Artist: Dillon Francis
+Song: Hello There
+Album the song is from: Hello There
+Preview Url: https://p.scdn.co/mp3-preview/698defcdd9bff67bc6d804dee3803270a4d53962?cid=a8cd3ae7f185476ab2135c77821d8a79
+------------------------------ 2 ------------------------------
+Artist: Adele
+Song: Hello
+Album the song is from: 25
+Preview Url: https://p.scdn.co/mp3-preview/0b90429fd554bad6785faa2b8931d613db4a0ee4?cid=a8cd3ae7f185476ab2135c77821d8a79
+------------------------------ 3 ------------------------------
+Artist: Karol G
+Song: Hello
+Album the song is from: Hello
+Preview Url: null
+------------------------------ 4 ------------------------------
+Artist: Adele
+Song: Hello
+Album the song is from: Hello
+Preview Url: https://p.scdn.co/mp3-preview/0b90429fd554bad6785faa2b8931d613db4a0ee4?cid=a8cd3ae7f185476ab2135c77821d8a79
+---- 0 ------------------------------
+Artist: Jhene Aiko
+Song: Hello Ego
+Album the song is from: Hello Ego
+Preview Url: null
+---- 1 ------------------------------
+Artist: Dillon Francis
+Song: Hello There
+Album the song is from: Hello There
+Preview Url: https://p.scdn.co/mp3-preview/698defcdd9bff67bc6d804dee3803270a4d53962?cid=a8cd3ae7f185476ab2135c77821d8a79
+---- 2 ------------------------------
+Artist: Adele
+Song: Hello
+Album the song is from: 25
+Preview Url: https://p.scdn.co/mp3-preview/0b90429fd554bad6785faa2b8931d613db4a0ee4?cid=a8cd3ae7f185476ab2135c77821d8a79
+---- 3 ------------------------------
+Artist: Karol G
+Song: Hello
+Album the song is from: Hello
+Preview Url: null
+---- 4 ------------------------------
+Artist: Adele
+Song: Hello
+Album the song is from: Hello
+Preview Url: https://p.scdn.co/mp3-preview/0b90429fd554bad6785faa2b8931d613db4a0ee4?cid=a8cd3ae7f185476ab2135c77821d8a79
+
+---- 0 ------------------------------
+Artist: Jhene Aiko
+Song: Hello Ego
+Album the song is from: Hello Ego
+Preview Url: null
+
+---- 1 ------------------------------
+Artist: Dillon Francis
+Song: Hello There
+Album the song is from: Hello There
+Preview Url: https://p.scdn.co/mp3-preview/698defcdd9bff67bc6d804dee3803270a4d53962?cid=a8cd3ae7f185476ab2135c77821d8a79
+
+---- 2 ------------------------------
+Artist: Adele
+Song: Hello
+Album the song is from: 25
+Preview Url: https://p.scdn.co/mp3-preview/0b90429fd554bad6785faa2b8931d613db4a0ee4?cid=a8cd3ae7f185476ab2135c77821d8a79
+
+---- 3 ------------------------------
+Artist: Karol G
+Song: Hello
+Album the song is from: Hello
+Preview Url: null
+
+---- 4 ------------------------------
+Artist: Darius Rucker
+Song: If I Told You
+Album the song is from: If I Told You
+Preview Url: null
+
+*****************************0 ------------------------------
+Artist: NF
+Song: If You Want Love
+Album the song is from: Perception
+Preview Url: null
+
+*****************************1 ------------------------------
+Artist: Sinead Harnett
+Song: If You Let Me
+Album the song is from: If You Let Me
+Preview Url: https://p.scdn.co/mp3-preview/ac5fb087b160118684f4454a0faf7531b767add4?cid=a8cd3ae7f185476ab2135c77821d8a79
+
+*****************************2 ------------------------------
+Artist: MercyMe
+Song: Even If
+Album the song is from: Even If
+Preview Url: https://p.scdn.co/mp3-preview/ae916b56561e2641bdc410903e929972382bc58a?cid=a8cd3ae7f185476ab2135c77821d8a79
+
+*****************************3 ------------------------------
+Artist: Kevin Gates
+Song: What If
+Album the song is from: What If
+Preview Url: https://p.scdn.co/mp3-preview/23a06546db93a61ab5b10771b5e4a7fdfeb989ef?cid=a8cd3ae7f185476ab2135c77821d8a79
+
+*****************************4 ------------------------------
+Artist: Darius Rucker
+Song: If I Told You
+Album the song is from: If I Told You
+Preview Url: null
+
+***************************** 0 *****************************
+Artist: NF
+Song: If You Want Love
+Album the song is from: Perception
+Preview Url: null
+
+***************************** 1 *****************************
+Artist: Sinead Harnett
+Song: If You Let Me
+Album the song is from: If You Let Me
+Preview Url: https://p.scdn.co/mp3-preview/ac5fb087b160118684f4454a0faf7531b767add4?cid=a8cd3ae7f185476ab2135c77821d8a79
+
+***************************** 2 *****************************
+Artist: MercyMe
+Song: Even If
+Album the song is from: Even If
+Preview Url: https://p.scdn.co/mp3-preview/ae916b56561e2641bdc410903e929972382bc58a?cid=a8cd3ae7f185476ab2135c77821d8a79
+
+***************************** 3 *****************************
+Artist: Kevin Gates
+Song: What If
+Album the song is from: What If
+Preview Url: https://p.scdn.co/mp3-preview/23a06546db93a61ab5b10771b5e4a7fdfeb989ef?cid=a8cd3ae7f185476ab2135c77821d8a79
+
+***************************** 4 *****************************
+Tue Oct 17 04:13:41 +0000 2017Wed Oct 11 22:24:54 +0000 2017Wed Oct 11 10:59:34 +0000 2017Tue Oct 10 23:16:44 +0000 2017Thu Oct 05 16:52:59 +0000 2017Thu Oct 05 01:19:02 +0000 2017Sat Sep 30 03:18:52 +0000 2017Mon Sep 25 23:14:43 +0000 2017Sat Sep 23 05:27:06 +0000 2017Sun Sep 17 00:32:22 +0000 2017Fri Sep 15 07:09:14 +0000 2017Mon Sep 11 18:29:50 +0000 2017Thu Sep 07 16:20:01 +0000 2017Sat Sep 02 23:23:16 +0000 2017Sat Sep 02 23:10:03 +0000 2017Sat Aug 26 23:24:04 +0000 2017Sat Aug 26 22:19:49 +0000 2017Fri Aug 25 23:23:47 +0000 2017Tue Aug 22 16:50:00 +0000 2017Mon Aug 21 18:25:54 +0000 2017Tue Oct 17 04:13:41 +0000 2017Wed Oct 11 22:24:54 +0000 2017Wed Oct 11 10:59:34 +0000 2017Tue Oct 10 23:16:44 +0000 2017Thu Oct 05 16:52:59 +0000 2017Thu Oct 05 01:19:02 +0000 2017Sat Sep 30 03:18:52 +0000 2017Mon Sep 25 23:14:43 +0000 2017Sat Sep 23 05:27:06 +0000 2017Sun Sep 17 00:32:22 +0000 2017Fri Sep 15 07:09:14 +0000 2017Mon Sep 11 18:29:50 +0000 2017Thu Sep 07 16:20:01 +0000 2017Sat Sep 02 23:23:16 +0000 2017Sat Sep 02 23:10:03 +0000 2017Sat Aug 26 23:24:04 +0000 2017Sat Aug 26 22:19:49 +0000 2017Fri Aug 25 23:23:47 +0000 2017Tue Aug 22 16:50:00 +0000 2017Mon Aug 21 18:25:54 +0000 2017undefined
+***************************
+Title: Saw
+The Movie released: 2004
+Country Produced: USA
+Language: English
+Plot: Two strangers awaken in a room with no recollection of how they got there or why, and soon discover they are pawns in a deadly game perpetrated by a notorious serial killer.
+Actors: Leigh Whannell, Cary Elwes, Danny Glover, Ken Leung
+IMDB Rating: 7.7
+Rotten Tomato Rating: N/A
+RottenTomatoes Url: http://www.rottentomatoes.com/m/saw/
+***************************
+Title: Saw
+The Movie released: 2004
+Country Produced: USA
+Language: English
+Plot: Two strangers awaken in a room with no recollection of how they got there or why, and soon discover they are pawns in a deadly game perpetrated by a notorious serial killer.
+Actors: Leigh Whannell, Cary Elwes, Danny Glover, Ken Leung
+IMDB Rating: 7.7
+Rotten Tomato Rating: N/A
+RottenTomatoes Url: http://www.rottentomatoes.com/m/saw/
+***************************
+Title: Saw
+The Movie released: 2004
+Country Produced: USA
+Language: English
+Plot: Two strangers awaken in a room with no recollection of how they got there or why, and soon discover they are pawns in a deadly game perpetrated by a notorious serial killer.
+Actors: Leigh Whannell, Cary Elwes, Danny Glover, Ken Leung
+IMDB Rating: 7.7
+Rotten Tomato Rating: N/A
+RottenTomatoes Url: http://www.rottentomatoes.com/m/saw/Tue Oct 17 04:13:41 +0000 2017Wed Oct 11 22:24:54 +0000 2017Wed Oct 11 10:59:34 +0000 2017Tue Oct 10 23:16:44 +0000 2017Thu Oct 05 16:52:59 +0000 2017Thu Oct 05 01:19:02 +0000 2017Sat Sep 30 03:18:52 +0000 2017Mon Sep 25 23:14:43 +0000 2017Sat Sep 23 05:27:06 +0000 2017Sun Sep 17 00:32:22 +0000 2017Fri Sep 15 07:09:14 +0000 2017Mon Sep 11 18:29:50 +0000 2017Thu Sep 07 16:20:01 +0000 2017Sat Sep 02 23:23:16 +0000 2017Sat Sep 02 23:10:03 +0000 2017Sat Aug 26 23:24:04 +0000 2017Sat Aug 26 22:19:49 +0000 2017Fri Aug 25 23:23:47 +0000 2017Tue Aug 22 16:50:00 +0000 2017Mon Aug 21 18:25:54 +0000 2017
